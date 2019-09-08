@@ -1,0 +1,15 @@
+/Users/coviam/Documents/workspace/shop/src/main/java/com/sample/shop/Response.java
+/Users/coviam/Documents/workspace/shop/src/main/java/com/sample/shop/entity/Retailer.java
+/Users/coviam/Documents/workspace/shop/src/main/java/com/sample/shop/repository/RetailerRepository.java
+/Users/coviam/Documents/workspace/shop/src/main/java/com/sample/shop/serviceImpl/StoreServiceImpl.java
+/Users/coviam/Documents/workspace/shop/src/main/java/com/sample/shop/controller/RetailerController.java
+/Users/coviam/Documents/workspace/shop/src/main/java/com/sample/shop/entity/Store.java
+/Users/coviam/Documents/workspace/shop/src/main/java/com/sample/shop/controller/StoreController.java
+/Users/coviam/Documents/workspace/shop/src/main/java/com/sample/shop/ShopApplication.java
+/Users/coviam/Documents/workspace/shop/src/main/java/com/sample/shop/services/RetailerService.java
+/Users/coviam/Documents/workspace/shop/src/main/java/com/sample/shop/services/StoreService.java
+/Users/coviam/Documents/workspace/shop/src/main/java/com/sample/shop/repository/StoreRepository.java
+/Users/coviam/Documents/workspace/shop/src/main/java/com/sample/shop/serviceAPI/RetailerService.java
+/Users/coviam/Documents/workspace/shop/src/main/java/com/sample/shop/serviceImpl/RetailerServiceImpl.java
+/Users/coviam/Documents/workspace/shop/src/main/java/com/sample/shop/swagger_configuration/SwaggerConfig.java
+/Users/coviam/Documents/workspace/shop/src/main/java/com/sample/shop/serviceAPI/StoreService.java
